@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an undergraduate physics student from the Chinese University of Hong Kong. My field of research is on strongly correlated materials which exhibits unusual phenomena such as high temperature superconductivity.
+
+🌱 I’m currently learning about strongly correlated phenomena and optimisation algorithms.
+⚡ Fun fact: I have two cats : Tom and Chacha
